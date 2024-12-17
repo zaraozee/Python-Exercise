@@ -1,0 +1,5 @@
+print("--------------------")
+print("\t\t hello guys   \r")
+print(8,56)
+print(12)
+print("--------------------")

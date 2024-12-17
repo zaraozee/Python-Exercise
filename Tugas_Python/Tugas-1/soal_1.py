@@ -1,0 +1,5 @@
+print('**********************************************')
+print('\t PROGRAM PYTHON')
+print('\t OLEH: ZNK')
+print('\t KELAS: X PPLG ')
+print('**********************************************')
